@@ -1,0 +1,8 @@
+﻿  control.cpp
+F:\新贪吃蛇\新贪吃蛇\Project1\snake.h(11,2): warning C4091: “typedef ”: 没有声明变量时忽略“Dir”的左侧
+  main.cpp
+F:\新贪吃蛇\新贪吃蛇\Project1\snake.h(11,2): warning C4091: “typedef ”: 没有声明变量时忽略“Dir”的左侧
+  snake.cpp
+F:\新贪吃蛇\新贪吃蛇\Project1\snake.h(11,2): warning C4091: “typedef ”: 没有声明变量时忽略“Dir”的左侧
+  正在生成代码...
+  Project1.vcxproj -> F:\新贪吃蛇\新贪吃蛇\Debug\Project1.exe
